@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+    My Resume
+    </title>
+    <link type="text/css" rel= "stylesheet" href="resume.css" />
+  </head>
+
+<body>
+
+<header><h1>Leigha Mitchell</h1></header>
+<aside>
+  <p>1200 Grispholm Rd., Unit 22,</p>
+  <p>Mississauga, ON L4Y 2G9</p>
+  <p>(416)454-2949</p>
+  <p>leigham314@gmail.com</p>
+</aside>
+
+<section><h3 class="headings">OBJECTIVE</h3>
+    <p>To bring your startup one step closer to world domination!</p>
+
+<h3 class="headings">SKILLS PROFILE</h3>
+
+<ul>
+  <li>Working knowledge of Ruby, Ruby on Rails, HTML, CSS and JavaScript</li>
+  <li>Understanding of Agile methodologies (Scrum, Kanban)</li>
+  <li>Excellent time management skills, experience with deadlines and high pressure situations</li>
+  <li>Extensive knowledge of Windows, Mac OS X, Microsoft Office, Adobe Photoshop, ZenDesk, Mixpanel, JIRA, Confluence, Mandrill, and various other customer support platforms</li>
+  <li>Experience in a fast-paced start-up atmosphere</li>
+  <li>Very organized with strong attention to detail</li>
+  <li>Creative mindset with lots of enthusiasm</li>
+</ul>
+
+<div>
+
+<h3 class="headings">EMPLOYMENT HISTORY</h3>
+  <h4>Customer Success Champion</h4>
+  <p>Joist Inc., 4/27/2015 to 5/13/2016</p>
+<ul>
+    <li>Managing customer inquiries via phone, email, chat, and social media platforms (ex. Facebook, Twitter)</li>
+    <li>Working closely with product and engineering teams to triage customer submitted defects, reproduce reported issues, and provide appropriate resolutions to inbound customer feedback</li>
+    <li>Ruthless prioritization of the support roadmap in order to best serve the company and customers</li>
+    <li>Implemented new process and software flows to better streamline the customer support experience</li>
+    <li>Participated in the hiring process of team members, including creating case studies for potential hires</li>
+</ul>
+
+<h4>Administrative/Educational Coordinator</h4>
+  <p>Joint Apprenticeship Council, 7/1/2012 to 3/1/2015</p>
+<ul>
+    <li>Create schedules for instructors, apprentices, and colleges</li>
+    <li>Handle invoicing of students as well as all finances regarding supplementary training, bookings, and payment of instructors</li>
+    <li>Book rooms and coordinate with multiple parties to ensure no miscommunications can occur</li>
+    <li>Act as a liaison between students, instructors, and the company Director</li>
+</ul>
+
+<h4>Event Organizer/ Server</h4>
+  <p>Executive Learning Centre: Schulich, 9/1/2010 to 7/1/2012</p>
+<ul>
+    <li>Ensure contracts are completed on time and exceed expectations</li>
+    <li>Maintain constant professional attitude and appearance</li>
+    <li>Work with clients and VIPs to provide everything required for each event, within or outside the main facility</li>
+</ul>
+
+
+<h3 class="headings">EDUCATION</h3>
+  <h5 class="schools">Applewood Heights Secondary School</h5>
+  <p>Ontario Secondary School Diploma, 6/1/2010</p>
+    <ul class="none">
+      <li>Ontario Honours Diploma, Honour Roll Student</li>
+      <li>Proficiency in Technological Design, Media Arts and English</li>
+    </ul>
+
+  <h5 class="schools">York University</h5>
+    <p>Completed coursework towards BA, 2010 to 2011</p>
+
+
+  <h5 class="schools">Bitmaker Labs</h5>
+  <p>Full-time Web Development course, 5/30/2016 to 7/29/2016</p>
+
+</div>
+
+</section>
+</body>
+
+</html>

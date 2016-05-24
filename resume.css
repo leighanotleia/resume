@@ -1,0 +1,66 @@
+
+header {
+    background: -webkit-linear-gradient(to right, #293f50, #648880);
+    background:    -moz-linear-gradient(to right, #293f50, #648880);
+    background:         linear-gradient(to right, #293f50, #648880);
+    padding-left: 20px;
+}
+
+section {
+  float: right;
+  margin: 0;
+  width: 75%;
+  margin-right: 30px;
+}
+aside {
+  float: left;
+  margin: 0 1.5%;
+  width: 15%;
+  display: block;
+  color: #293f50;
+  line-height: 10px;
+}
+
+body {
+  color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+* {
+  font-family: "Helvetica Neue" ,Helvetica, sans-serif;
+}
+
+div p {
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.none {
+  list-style-type: none;
+}
+
+.headings {
+  padding-left: -40px;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #648880;
+}
+h1, h3, h4, h5, p {
+  margin-bottom: 22px;
+}
+h1 {
+  font-size: 36px;
+  line-height: 44px;
+  color: white;
+}
+}
+h3 {
+  font-size: 21px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
